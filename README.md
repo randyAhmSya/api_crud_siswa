@@ -26,9 +26,16 @@ hasil dari memasukan data
 ![alt text](image-4.png)
 mengupdate data nya 
 ![alt text](image-5.png)
+setelah di update
 ![alt text](image-6.png)
+membuat get untuk menampilkan semua data
 ![alt text](image-7.png)
 ![alt text](image-8.png)
+
+hasil dari validasi dari yang sudah di terapkan
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+
+delete untuk data siswa
+![alt text](image-18.png)
