@@ -14,11 +14,17 @@ code dari route api
 ![alt text](image-17.png)
 <h1>hasil</h1>
 
+membuat data baru pada register yang memasukan nama email dan password
 ![alt text](image.png)
+menguji login dan mendapatkan token nya 
 ![alt text](image-1.png)
+memasukan data dari siswa dengn format nama umur dan kelas
 ![alt text](image-2.png)
+
 ![alt text](image-3.png)
+hasil dari memasukan data
 ![alt text](image-4.png)
+mengupdate data nya 
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 ![alt text](image-7.png)
